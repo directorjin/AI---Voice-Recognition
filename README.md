@@ -18,6 +18,19 @@ MSのLUISという人工知能を使って作りました。
 
 <hr/>
 
+<hr>
+流れ
+===
+
+1. テキストを入力してAIが英語に翻訳。
+2. その英語を音声で抽出。
+3. 音声をAIが聞き、また韓国語に翻訳。
+  
+結果:同じではない。
+--------
+
+<hr/>
+
 <img width="800" src="https://user-images.githubusercontent.com/44941601/78568519-2f5ae880-785d-11ea-9645-e99d245d36c9.png">
 <img width="800" src="https://user-images.githubusercontent.com/44941601/78568519-2f5ae880-785d-11ea-9645-e99d245d36c9.png">
 
